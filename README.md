@@ -25,7 +25,16 @@ To add the image, use relative paths, store the img inside src folder and add a 
 - Dinamic way to change the shortcuts with beginner friendly design.
 - Optimization of app to consume less. (in this moment performance is good but memory charge have values between 12Mbs and 43,4Mbs, beWidget actually uses 60Mbs of ram).
 
+# 🌠 Screenshot:
+
+Actual footage: 
+![docker](https://user-images.githubusercontent.com/84904766/159820053-15afe2b9-6c3a-459c-8724-042bae7a9248.png)
+
+With light mode, not implemented yet: 
+![docker-light](https://user-images.githubusercontent.com/84904766/159820318-ed12f390-f32a-4086-8ece-5ef53dca8bca.png)
+
 
 # 🎆 License:
+
 
 ``` Free for use but I don't allow to change the code without my permission. ``` 
